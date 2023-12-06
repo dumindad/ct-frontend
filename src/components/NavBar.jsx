@@ -20,6 +20,8 @@ const NavBar = () => {
                     setShowCatMenu={setShowCatMenu}
                     setMobileMenu={setMobileMenu}
                 /> */}
+                <span> History</span>
+                <span> Team</span>
             </div>
 
         </nav>
