@@ -14,7 +14,7 @@ const NavBar = () => {
             </div>
 
          
-            <div className='w-full'>
+            <div className='w-full flex'>
             {/* <MobilMenu
                     showCatMenu={showCatMenu}
                     setShowCatMenu={setShowCatMenu}
